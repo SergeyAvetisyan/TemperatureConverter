@@ -15,5 +15,14 @@ Add this in build.gradle
 
 In dependencies add this line
 
-**implementation 'com.github.SergeyAvetisyan:TemperatureConverter:1.0.0'**
+*implementation 'com.github.SergeyAvetisyan:TemperatureConverter:1.0.0'*
 
+
+
+# Usage
+
+You can convert following Celcius,Reamur,Fahrenheit,Kelvin
+Here is example how use it(converting Celcius to Fahrenheit)
+```
+Temperature.Celcius.convert(25,Temperature.Fahrenheit);
+```
