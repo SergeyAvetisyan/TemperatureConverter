@@ -20,7 +20,9 @@ allprojects {
 
 In dependencies add this line
 
-*implementation 'com.github.SergeyAvetisyan:TemperatureConverter:{Last Version}'*
+```
+implementation 'com.github.SergeyAvetisyan:TemperatureConverter:{Last Version}'
+```
 
 
 
