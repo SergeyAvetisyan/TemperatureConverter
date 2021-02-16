@@ -9,5 +9,6 @@ Add this in build.gradle
 	
 
 In dependencies add this line
-implementation 'com.github.SergeyAvetisyan:TemperatureConverter:1.0.0'
+
+**implementation 'com.github.SergeyAvetisyan:TemperatureConverter:1.0.0'**
 
