@@ -1,6 +1,7 @@
 # TemperatureConverter
 
-![https://lmg-labmanager.s3.amazonaws.com/assets/articleNo/3330/aImg/40352/advances-in-temperature-measurement-for-microwave-digestion-l.jpg]
+![Image of Temp]
+(https://lmg-labmanager.s3.amazonaws.com/assets/articleNo/3330/aImg/40352/advances-in-temperature-measurement-for-microwave-digestion-l.jpg)
 
 
 
